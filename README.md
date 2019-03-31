@@ -13,3 +13,11 @@ branch**加粗** 展示
 张三 | lisi | mazi
 张三1 | lisi1 | mazi1
  
+`console.log("aaa")`
+
+(```)
+bool function(char* pChar, std::string& str)
+{
+  std::cout<<pChar<<str<<std::endl;
+}
+(```)
