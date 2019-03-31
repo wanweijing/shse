@@ -17,8 +17,7 @@ branch**加粗** 展示
 
 
 (```)
-bool function(char* pChar, std::string& str)
-{
+bool function(char* pChar, std::string& str) {
   std::cout<<pChar<<str<<std::endl;
 }
 (```)
